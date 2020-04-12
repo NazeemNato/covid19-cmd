@@ -65,7 +65,7 @@ Today deaths: 0
 
 ### *Note: this stats from 12/04/2020 10:10:30 am*
 
-# Thanks
+# Using
 
 ⭐ [Covid-19 API](https://coronavirus-19-api.herokuapp.com/all)
 
